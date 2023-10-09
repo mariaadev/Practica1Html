@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+  }
+
+th {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+h1{
+    color: rgb(47, 118, 121) ;
+    text-align: center;
+    margin: 20px;
+}
+
+table caption{
+    border: none;
+    color: darkblue;
+    padding: 7px;
+    padding-bottom: 15px;
+}   
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
