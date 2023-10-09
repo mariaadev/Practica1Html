@@ -9,12 +9,14 @@ th, td {
 th {
     background-color: blanchedalmond;
     text-align: center;
+    font-weight: bold;
 }
 
 h1{
     color: rgb(47, 118, 121) ;
     text-align: center;
     margin: 20px;
+    font-weight: bold;
 }
 
 table caption{
